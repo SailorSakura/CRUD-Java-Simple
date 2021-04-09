@@ -1,0 +1,5 @@
+/*/servidor local wamp o xiamp
+/*/Usuario: root 
+/*/contraseña: "" estos dos atributos se pueden modificar en el archivo de conexion del proyecto 
+/*/ src/basededatos/Conexion
+/*/Todas las librerias usadas se encuentran en trabajo1/librerias
